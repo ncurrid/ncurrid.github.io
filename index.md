@@ -1,21 +1,24 @@
 ---
 layout: page
-title: Nathalie Currid
+title: Home
 permalink: /
 ---
 
 <style>
+
 /* =========================
-   HEADER TITLE (no blue styling override)
+   HEADER FIX (évite doublon titre)
 ========================= */
-.page__title,
-.site-title,
+.page__title {
+  display: none !important;
+}
+
 .site-brand__title {
   color: #111 !important;
 }
 
 /* =========================
-   HERO SECTION
+   HERO
 ========================= */
 .hero {
   background-image: url('/assets/images/background.jpg');
@@ -31,11 +34,10 @@ permalink: /
   color: white;
 
   padding: 40px 20px;
-
   position: relative;
 }
 
-/* overlay léger pour lisibilité */
+/* overlay léger */
 .hero::before {
   content: "";
   position: absolute;
@@ -48,42 +50,31 @@ permalink: /
 }
 
 /* =========================
-   TOP TEXT
+   TOP
 ========================= */
-.hero-top {
-  margin-top: 20px;
+.hero-top img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin-bottom: 10px;
 }
 
 .hero-top h1 {
-  font-size: 3em;
-  margin-bottom: 10px;
-  font-weight: 600;
-}
-
-.hero-top p {
-  font-size: 1.2em;
-  opacity: 0.95;
+  font-size: 2.8em;
+  margin: 10px 0;
 }
 
 /* =========================
    BUTTONS
 ========================= */
-.hero-bottom {
-  margin-bottom: 20px;
-}
-
 .hero-bottom a {
   display: inline-block;
   margin: 10px;
   padding: 12px 25px;
-
   background-color: rgba(0,0,0,0.6);
   color: white;
-
   text-decoration: none;
   border-radius: 6px;
-
-  font-weight: 500;
 }
 
 /* =========================
@@ -93,27 +84,32 @@ permalink: /
   padding: 40px 20px;
   text-align: center;
 }
-
-.section h2 {
-  margin-bottom: 10px;
-}
 </style>
 
 <!-- HERO -->
 <div class="hero">
 
   <div class="hero-top">
+
+    <!-- PHOTO (UNE SEULE FOIS ICI) -->
+    <img src="/assets/images/NathalieCurrid.jpg" alt="Nathalie Currid">
+
+    <!-- NOM (UNE SEULE FOIS ICI) -->
     <h1>Nathalie Currid</h1>
+
     <p>Adaptable • Creative • Project Manager</p>
+
   </div>
 
   <div class="hero-bottom">
+
     <a href="/about/">About Me</a>
 
     <a href="https://app.powerbi.com/view?r=eyJrIjoiZjRiOTc3NDItN2Y3OS00Mjc3LWE3MjUtNTM3N2E4NzRjODZlIiwidCI6IjI0ZmZjMGRmLTZiM2YtNGVkZS1iYWNkLWRkNDlmZDFiNGEzMCJ9"
        target="_blank">
       View CV
     </a>
+
   </div>
 
 </div>
@@ -122,25 +118,6 @@ permalink: /
 <div class="section">
   <h2>About Me</h2>
   <p>
-    I work across a variety of sectors with enthusiasm and adaptability.  
-    I combine creativity, communication, and strong project management skills.
-  </p>
-</div>
-
-<!-- SKILLS -->
-<div class="section">
-  <h2>Skills</h2>
-  <p>
-    Project Management • Communication • Leadership • Problem Solving • Adaptability
-  </p>
-</div>
-
-<!-- CONTACT -->
-<div class="section">
-  <h2>Contact</h2>
-  <p>
-    📧 nathalie.currid@gmail.com <br>
-    🔗 <a href="https://www.linkedin.com/in/nathalie-currid-ab87a042/">LinkedIn</a> <br>
-    💻 <a href="https://github.com/ncurrid">GitHub</a>
+    I work across a variety of sectors with adaptability, creativity, and strong project management skills.
   </p>
 </div>
