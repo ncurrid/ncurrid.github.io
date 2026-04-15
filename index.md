@@ -10,10 +10,14 @@ permalink: /
 ========================= */
 .site-title,
 .site-brand,
-.site-nav__title,
+.site-brand__title,
 .site-header__title,
-.header__title {
+.nav__title,
+.header__title,
+.site-header .site-title {
   display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
 }
 
 /* =========================
