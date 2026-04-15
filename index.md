@@ -91,9 +91,6 @@ permalink: /
 
   <div class="hero-top">
 
-    <!-- PHOTO (UNE SEULE FOIS ICI) -->
-    <img src="/assets/images/NathalieCurrid.jpg" alt="Nathalie Currid">
-
     <!-- NOM (UNE SEULE FOIS ICI) -->
     <h1>Nathalie Currid</h1>
 
