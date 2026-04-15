@@ -100,7 +100,9 @@ permalink: /
 
   <div class="hero-bottom">
 
-    <a href="https://github.com/ncurrid/WELCOME-PAGE">BI projects</a>
+    <a href="https://github.com/ncurrid/WELCOME-PAGE"
+    target="_blank">
+    BI projects
 
     <a href="https://app.powerbi.com/view?r=eyJrIjoiZjRiOTc3NDItN2Y3OS00Mjc3LWE3MjUtNTM3N2E4NzRjODZlIiwidCI6IjI0ZmZjMGRmLTZiM2YtNGVkZS1iYWNkLWRkNDlmZDFiNGEzMCJ9"
        target="_blank">
