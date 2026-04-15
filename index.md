@@ -5,14 +5,7 @@ permalink: /
 ---
 
 <style>
-.site-title,
-.site-title a,
-.nav__title,
-.header__title {
-  display: none !important;
-}
-
-/* HERO SECTION */
+/* HERO */
 .hero {
   background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
                     url('/assets/images/background.jpg');
@@ -27,7 +20,15 @@ permalink: /
   padding: 40px 20px;
 }
 
-/* TEXTE EN HAUT */
+/* SUPPRESSION TITRE HEADER (IMPORTANT) */
+.site-title,
+.site-title a,
+.nav__title,
+.header__title {
+  display: none !important;
+}
+
+/* TOP TEXT */
 .hero-top {
   margin-top: 20px;
 }
@@ -41,7 +42,7 @@ permalink: /
   font-size: 1.2em;
 }
 
-/* BOUTONS EN BAS */
+/* BOTTOM BUTTONS */
 .hero-bottom {
   margin-bottom: 20px;
 }
