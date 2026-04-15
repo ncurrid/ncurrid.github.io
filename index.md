@@ -4,46 +4,78 @@ title: Home
 permalink: /
 ---
 
-<p align="center">
-  <img src="/assets/images/NathalieCurrid_2026.jpg" width="180" style="border-radius: 50%;"/>
-</p>
+<style>
+.hero {
+  background-image: url('/assets/images/background.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+}
 
-<h1 align="center">Nathalie Currid</h1>
+.hero h1 {
+  font-size: 3em;
+  margin-bottom: 10px;
+}
 
-<p align="center">
-  Adaptable • Creative • Project Manager  
-</p>
+.hero p {
+  font-size: 1.2em;
+  max-width: 600px;
+}
 
-<p align="center">
-  I work across a variety of sectors with enthusiasm and an open mind.  
-  I bring strong project management skills, adaptability, and effective communication.
-</p>
+.buttons a {
+  display: inline-block;
+  margin: 10px;
+  padding: 12px 25px;
+  background-color: rgba(0,0,0,0.6);
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+}
 
----
+.section {
+  padding: 40px 20px;
+  text-align: center;
+}
+</style>
 
-<p align="center">
-  <a href="/about/" style="margin-right: 15px; padding: 10px 20px; background-color: #007acc; color: white; text-decoration: none; border-radius: 6px;">
-    About Me
-  </a>
+<div class="hero">
+  <h1>Nathalie Currid</h1>
+  <p>Adaptable • Creative • Project Manager</p>
 
-  <a href="/cv/" style="padding: 10px 20px; background-color: #333; color: white; text-decoration: none; border-radius: 6px;">
-    View CV
-  </a>
-</p>
+  <div class="buttons">
+    <a href="/about/">About Me</a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiZjRiOTc3NDItN2Y3OS00Mjc3LWE3MjUtNTM3N2E4NzRjODZlIiwidCI6IjI0ZmZjMGRmLTZiM2YtNGVkZS1iYWNkLWRkNDlmZDFiNGEzMCJ9" target="_blank">
+      View CV
+    </a>
+  </div>
+</div>
 
----
+<div class="section">
+  <h2>About Me</h2>
+  <p>
+    I work across a variety of sectors with enthusiasm and an open mind.
+    I combine adaptability, creativity, and strong project management skills.
+  </p>
+</div>
 
-## What I Do
+<div class="section">
+  <h2>Skills</h2>
+  <p>
+    Project Management • Communication • Team Leadership • Problem Solving
+  </p>
+</div>
 
-- Project Management  
-- Cross-functional collaboration  
-- Problem solving  
-- Adaptability across industries  
-
----
-
-## Contact
-
-📧 nathalie.currid@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/nathalie-currid-ab87a042/)  
-💻 [GitHub](https://github.com/ncurrid)
+<div class="section">
+  <h2>Contact</h2>
+  <p>
+    📧 nathalie.currid@gmail.com <br>
+    🔗 <a href="https://www.linkedin.com/in/nathalie-currid-ab87a042/">LinkedIn</a>  
+    💻 <a href="https://github.com/ncurrid">GitHub</a>
+  </p>
+</div>
