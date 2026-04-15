@@ -94,13 +94,13 @@ permalink: /
     <!-- NOM (UNE SEULE FOIS ICI) -->
     <h1>Nathalie Currid</h1>
 
-    <p>Adaptable • Creative • Project Manager</p>
+    <p>Business Intelligence Analyst • Project Manager</p>
 
   </div>
 
   <div class="hero-bottom">
 
-    <a href="/about/">About Me</a>
+    <a href="/about/">BI projects</a>
 
     <a href="https://app.powerbi.com/view?r=eyJrIjoiZjRiOTc3NDItN2Y3OS00Mjc3LWE3MjUtNTM3N2E4NzRjODZlIiwidCI6IjI0ZmZjMGRmLTZiM2YtNGVkZS1iYWNkLWRkNDlmZDFiNGEzMCJ9"
        target="_blank">
@@ -113,7 +113,7 @@ permalink: /
 
 <!-- ABOUT -->
 <div class="section">
-  <h2>About Me</h2>
+  <h2>About me</h2>
   <p>
     I work across a variety of sectors with adaptability, creativity, and strong project management skills.
   </p>
