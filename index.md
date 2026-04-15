@@ -1,31 +1,19 @@
 ---
 layout: page
-title: ""
+title: Nathalie Currid
 permalink: /
 ---
 
 <style>
 /* =========================
-   SUPPRESSION TITRE THEME
+   HEADER TITLE (no blue styling override)
 ========================= */
+.page__title,
 .site-title,
-.site-brand,
-.site-brand__title,
-.site-header__title,
-.nav__title,
-.header__title,
-.site-header .site-title {
-  display: none !important;
-  visibility: hidden !important;
-  opacity: 0 !important;
+.site-brand__title {
+  color: #111 !important;
 }
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const titles = document.querySelectorAll('.site-title, .site-brand, .header__title');
-  titles.forEach(t => t.remove());
-});
-</script>
-   
+
 /* =========================
    HERO SECTION
 ========================= */
@@ -39,21 +27,19 @@ document.addEventListener("DOMContentLoaded", function () {
   flex-direction: column;
   justify-content: space-between;
 
-  color: white;
   text-align: center;
+  color: white;
+
   padding: 40px 20px;
 
   position: relative;
 }
 
-/* overlay léger (IMPORTANT pour lisibilité sans assombrir trop) */
+/* overlay léger pour lisibilité */
 .hero::before {
   content: "";
   position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
+  inset: 0;
   background: rgba(0,0,0,0.25);
 }
 
@@ -80,7 +66,7 @@ document.addEventListener("DOMContentLoaded", function () {
 }
 
 /* =========================
-   BOTTOM BUTTONS
+   BUTTONS
 ========================= */
 .hero-bottom {
   margin-bottom: 20px;
@@ -100,10 +86,6 @@ document.addEventListener("DOMContentLoaded", function () {
   font-weight: 500;
 }
 
-.hero-bottom a:hover {
-  background-color: rgba(0,0,0,0.75);
-}
-
 /* =========================
    SECTIONS
 ========================= */
@@ -120,13 +102,11 @@ document.addEventListener("DOMContentLoaded", function () {
 <!-- HERO -->
 <div class="hero">
 
-  <!-- TOP TEXT -->
   <div class="hero-top">
     <h1>Nathalie Currid</h1>
     <p>Adaptable • Creative • Project Manager</p>
   </div>
 
-  <!-- BOTTOM BUTTONS -->
   <div class="hero-bottom">
     <a href="/about/">About Me</a>
 
@@ -143,7 +123,7 @@ document.addEventListener("DOMContentLoaded", function () {
   <h2>About Me</h2>
   <p>
     I work across a variety of sectors with enthusiasm and adaptability.  
-    I combine creativity, communication skills, and strong project management experience.
+    I combine creativity, communication, and strong project management skills.
   </p>
 </div>
 
