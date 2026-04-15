@@ -1,5 +1,6 @@
 ---
 layout: page
+Title: Mon site
 permalink: /
 ---
 
