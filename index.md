@@ -4,26 +4,46 @@ title: Home
 permalink: /
 ---
 
-![Nathalie Currid](/assets/images/NathalieCurrid_2026.jpg)
+<p align="center">
+  <img src="/assets/images/NathalieCurrid_2026.jpg" width="180" style="border-radius: 50%;"/>
+</p>
 
-# Nathalie Currid
+<h1 align="center">Nathalie Currid</h1>
 
-Welcome to my personal website.
+<p align="center">
+  Adaptable • Creative • Project Manager  
+</p>
 
-I work across a variety of sectors with adaptability, creativity, and strong project management skills. I communicate effectively and thrive both independently and as part of a team.
+<p align="center">
+  I work across a variety of sectors with enthusiasm and an open mind.  
+  I bring strong project management skills, adaptability, and effective communication.
+</p>
 
 ---
 
-## About Me
+<p align="center">
+  <a href="/about/" style="margin-right: 15px; padding: 10px 20px; background-color: #007acc; color: white; text-decoration: none; border-radius: 6px;">
+    About Me
+  </a>
 
-Learn more about my background, skills, and experience:
-
-👉 [About Me](/about/)
+  <a href="/cv/" style="padding: 10px 20px; background-color: #333; color: white; text-decoration: none; border-radius: 6px;">
+    View CV
+  </a>
+</p>
 
 ---
 
-## CV
+## What I Do
 
-Explore my professional experience and projects:
+- Project Management  
+- Cross-functional collaboration  
+- Problem solving  
+- Adaptability across industries  
 
-👉 [View my CV](/cv/)
+---
+
+## Contact
+
+📧 nathalie.currid@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/nathalie-currid-ab87a042/)  
+💻 [GitHub](https://github.com/ncurrid)
