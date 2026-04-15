@@ -1,6 +1,5 @@
 ---
 layout: page
-title: ""  color: white;
 permalink: /
 ---
 
