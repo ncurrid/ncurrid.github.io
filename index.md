@@ -19,11 +19,12 @@ permalink: /
   visibility: hidden !important;
   opacity: 0 !important;
 }
-header a,
-header .title,
-header .brand {
-  display: none !important;
-}
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const titles = document.querySelectorAll('.site-title, .site-brand, .header__title');
+  titles.forEach(t => t.remove());
+});
+</script>
    
 /* =========================
    HERO SECTION
