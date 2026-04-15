@@ -1,6 +1,6 @@
 ---
 layout: page
-Title: "Hello!"
+title: "Hello!"
 permalink: /
 ---
 
