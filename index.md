@@ -19,7 +19,12 @@ permalink: /
   visibility: hidden !important;
   opacity: 0 !important;
 }
-
+header a,
+header .title,
+header .brand {
+  display: none !important;
+}
+   
 /* =========================
    HERO SECTION
 ========================= */
