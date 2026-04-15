@@ -27,6 +27,10 @@ permalink: /
 .header__title {
   display: none !important;
 }
+  .site-brand,
+.site-brand__title {
+  display: none !important;
+}
 
 /* TOP TEXT */
 .hero-top {
