@@ -5,8 +5,7 @@ permalink: /
 ---
 
 <style>
-/* Supprime le titre bleu du thème */
-.page__header {
+.site-title {
   display: none;
 }
 
