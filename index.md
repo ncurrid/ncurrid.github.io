@@ -1,6 +1,6 @@
 ---
 layout: page
-Title: Mon site
+Title: Hello!
 permalink: /
 ---
 
