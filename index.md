@@ -5,8 +5,11 @@ permalink: /
 ---
 
 <style>
-.site-title {
-  display: none;
+.site-title,
+.site-title a,
+.nav__title,
+.header__title {
+  display: none !important;
 }
 
 /* HERO SECTION */
