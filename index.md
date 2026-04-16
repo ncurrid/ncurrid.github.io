@@ -87,6 +87,93 @@ permalink: /
   padding: 60px 20px;
   text-align: center;
 }
+/* =========================
+   CV
+========================= */
+   :root {
+  --primary: #0a66c2;     /* LinkedIn blue style */
+  --text: #1f1f1f;
+  --muted: #666;
+  --line: #e6e6e6;
+  --bg: #ffffff;
+}
+
+/* SECTION */
+.bio-premium {
+  background: var(--bg);
+  padding-top: 40px;
+}
+
+/* TIMELINE WRAPPER */
+.bio-premium-timeline {
+  max-width: 850px;
+  margin: 40px auto;
+  position: relative;
+  padding-left: 30px;
+}
+
+/* LINE */
+.bio-premium-timeline::before {
+  content: "";
+  position: absolute;
+  left: 8px;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: var(--line);
+}
+
+/* ITEM */
+.bio-premium-item {
+  position: relative;
+  margin-bottom: 40px;
+}
+
+/* DOT */
+.bio-premium-dot {
+  width: 10px;
+  height: 10px;
+  background: var(--primary);
+  border-radius: 50%;
+  position: absolute;
+  left: -5px;
+  top: 6px;
+}
+
+/* CONTENT */
+.bio-premium-content {
+  padding-left: 20px;
+}
+
+/* ROLE (TITLE) */
+.bio-role {
+  font-size: 1.05em;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 3px;
+}
+
+/* DATE */
+.bio-date {
+  font-size: 0.85em;
+  color: var(--primary);
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+/* TEXT */
+.bio-text {
+  font-size: 0.95em;
+  color: var(--muted);
+  line-height: 1.6;
+  max-width: 700px;
+}
+
+/* HOVER (subtil premium feel) */
+.bio-premium-item:hover .bio-role {
+  color: var(--primary);
+  transition: 0.2s ease;
+}
 </style>
 
 <div class="hero">
@@ -116,9 +203,50 @@ permalink: /
   <p>Je suis spécialisée en data, BI et gestion de projets, avec une forte expérience dans la transformation des données en insights décisionnels.</p>
 </section>
 
-<section id="bio" class="section">
+<section id="bio" class="section bio-premium">
   <h2>Short bio</h2>
-  <p>Project Manager & BI Analyst basée en Europe, passionnée par la data, la visualisation et l’optimisation des processus métiers.</p>
+
+  <div class="bio-premium-timeline">
+
+    <div class="bio-premium-item">
+      <div class="bio-premium-dot"></div>
+
+      <div class="bio-premium-content">
+        <div class="bio-role">Project Manager</div>
+        <div class="bio-date">2023 — Present</div>
+        <div class="bio-text">
+          Lead of data and IT projects, Agile coordination, stakeholder management,
+          and delivery of BI solutions in international environments.
+        </div>
+      </div>
+    </div>
+
+    <div class="bio-premium-item">
+      <div class="bio-premium-dot"></div>
+
+      <div class="bio-premium-content">
+        <div class="bio-role">BI Analyst</div>
+        <div class="bio-date">2021 — 2023</div>
+        <div class="bio-text">
+          Design of Power BI dashboards, data modeling, automation of reporting,
+          and decision support for business teams.
+        </div>
+      </div>
+    </div>
+
+    <div class="bio-premium-item">
+      <div class="bio-premium-dot"></div>
+
+      <div class="bio-premium-content">
+        <div class="bio-role">Data Enthusiast</div>
+        <div class="bio-date">Earlier</div>
+        <div class="bio-text">
+          Strong interest in data visualization, SQL, Python, and business analytics foundations.
+        </div>
+      </div>
+    </div>
+
+  </div>
 </section>
 
 <section id="projects" class="section">
