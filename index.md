@@ -50,7 +50,7 @@ permalink: /
 
 /* TOP */
 .hero-top {
-  margin-top: 20px;
+  margin-top: 15px;
 }
 
 /* BOTTOM */
