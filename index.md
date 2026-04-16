@@ -71,8 +71,7 @@ permalink: /
 .hero-about {
   max-width: 600px;
   margin: 20px auto;
-  font-size: 0.9em;
-  font-family: 'Segoe UI', Tahoma, sans-serif;
+  font-size: 0.8em;
 }
 }
 
@@ -87,7 +86,7 @@ permalink: /
   display: inline-block;
   margin: 10px;
   padding: 12px 25px;
-  background-color: rgba(0,0,0,0.4);
+  background-color: rgba(0,0,0,0.6);
   color: white;
   text-decoration: none;
   border-radius: 6px;
