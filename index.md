@@ -114,10 +114,3 @@ permalink: /
   </div>
 
 </div>
-    <!-- ABOUT DIRECTEMENT SOUS LE TITRE -->
-    <div class="hero-about">
-      <p>
-        I’m a Project Manager with a growing focus on Business Intelligence, using data to drive decisions and improve performance.
-      </p>
-    </div>
-  </div>
