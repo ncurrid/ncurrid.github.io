@@ -213,45 +213,15 @@ permalink: /
 
 <section id="bi-skills" class="section">
   <h2>BI tools & skills</h2>
-<ul>
-<li>Data & BI tools: Power BI, Excel, SQL, Python (Pandas, Matplotlib)
-<li>Data handling: Data cleaning, transformation, visualisation, KPIs, dashboards
-<li>Project management: Retroplanning, Gantt charts, Agile methods, tasks coordination
-<li>UX/UI & Communication tools: Miro (mockups, mind maps), Loom (training videos), Notion
-<li>Online project portfolio tools: GitHub, Markdown<li>
- </ul>
+<li><strong>Data & BI tools:</strong> Power BI, Excel, SQL, Python (Pandas, Matplotlib) — applied to data extraction, transformation (ETL via Power Query), analysis and development of interactive dashboards and KPI-driven reporting</li>
 
-  <h4>Data Management</h4>
-  <ul>
-    <li>Design of relational databases in compliance with GDPR standards</li>
-    <li>Data handling and manipulation using SQL, APIs and ETL tools (Power Query Editor)</li>
-    <li>Cleaning, structuring, and transforming data for analysis</li>
-    <li>Preparing reliable, consistent, and usable datasets</li>
-  </ul>
+<li><strong>Data handling:</strong> Data cleaning, structuring and transformation; preparation of reliable datasets; exploratory (univariate & multivariate) analysis; data visualisation and storytelling to support decision-making</li>
 
-  <h4>Data Analysis & Visualisation</h4>
-  <ul>
-    <li>Exploratory, univariate, and multivariate data analysis</li>
-    <li>Creation of accessible and tailored visualisations (Power BI, Excel, Python)</li>
-    <li>Development of interactive dashboards and strategic reporting</li>
-    <li>Storytelling and clear presentation of results</li>
-  </ul>
+<li><strong>Project management:</strong> Retroplanning, Gantt charts, Agile methods — planning and coordination of data projects, writing functional specifications, documentation of processes and best practices</li>
 
-  <h4>Business Intelligence & Strategy</h4>
-  <ul>
-    <li>Identification of business needs and writing of functional specifications</li>
-    <li>Design of BI solutions: extraction, processing, visualisation, KPI definition</li>
-    <li>Customer/product segmentation analysis</li>
-    <li>Contribution to strategy through insights and risk identification</li>
-  </ul>
+<li><strong>UX/UI & Communication tools:</strong> Miro (mockups, mind maps), Loom (training videos), Notion — creation of user-centric materials, facilitation of workshops, and support for user adoption</li>
 
-  <h4>Project Management & User Support</h4>
-  <ul>
-    <li>Planning and organisation of data projects (Gantt, retroplanning)</li>
-    <li>User training workshops and support for adoption</li>
-    <li>Documentation of processes and best practices</li>
-  </ul>
-
+<li><strong>Online project portfolio tools:</strong> GitHub, Markdown — version control, project documentation, and presentation of data analysis workflows and deliverables</li>
 </section>
 
 <section id="bio" class="section bio-premium">
