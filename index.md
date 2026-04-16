@@ -208,11 +208,11 @@ permalink: /
 
 <section id="about" class="section">
   <h2>About me</h2>
-  <p>I’m a Project Manager with a growing focus on Business Intelligence, using data to support decision-making and improve performance. I work across diverse sectors with an open mind and rigour, combining analytical thinking and project management to deliver clear, measurable results. My focus is on turning data into actionable insights through KPIs, reporting, and performance tracking. I communicate effectively and manage projects independently and in cross-functional teams, ensuring alignment between stakeholders and operations.</p>
+  <p>I’m a Project Manager with a growing focus on Business Intelligence, using data to support decision-making and improve performance. I work across diverse sectors with an open mind and rigour, combining analytical thinking and project management to deliver clear, measurable results. My focus is on turning clean data into actionable insights through KPIs, reporting, and performance tracking. I communicate effectively and manage projects independently and in cross-functional teams, ensuring alignment between stakeholders and operations.</p>
 </section>
 
-<section id="bi-skills" class="section">
-  <h2>BI tools & skills</h2>
+<section id="Data & Business Intelligence skills" class="section">
+  <h2>Data & Business Intelligence skills</h2>
 <li><strong>Data & BI tools:</strong> Power BI, Excel, SQL, Python (Pandas, Matplotlib) — applied to data extraction, transformation (ETL via Power Query), analysis and development of interactive dashboards and KPI-driven reporting</li>
 
 <li><strong>Data handling:</strong> Data cleaning, structuring and transformation; preparation of reliable datasets; exploratory (univariate & multivariate) analysis; data visualisation and storytelling to support decision-making</li>
