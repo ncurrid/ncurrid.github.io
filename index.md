@@ -211,32 +211,40 @@ permalink: /
   <p>I’m a Project Manager with a growing focus on Business Intelligence, using data to support decision-making and improve performance. I work across diverse sectors with an open mind and rigour, combining analytical thinking and project management to deliver clear, measurable results. My focus is on turning data into actionable insights through KPIs, reporting, and performance tracking. I communicate effectively and manage projects independently and in cross-functional teams, ensuring alignment between stakeholders and operations.</p>
 </section>
 
-<section id="BI Skills" class="section">
+<section id="bi-skills" class="section">
   <h2>BI Skills</h2>
-  <p>
-Data management
-- Design of relational databases in compliance with GDPR standards
-- Data handling and manipulation using SQL, APIs and an ETL tool (Power Query Editor)
-- Cleaning, structuring, and transforming data for analysis
-- Preparing reliable, consistent, and usable datasets
 
-Data analysis & Visualisation
-- Exploratory, univariate, and multivariate data analysis to identify trends and correlations
-- Creation of accessible and tailored visualisations (Power BI, Excel, Python)
-- Development of interactive dashboards and production of strategic reporting
-- Storytelling and clear presentation of results
+  <h3>Data Management</h3>
+  <ul>
+    <li>Design of relational databases in compliance with GDPR standards</li>
+    <li>Data handling and manipulation using SQL, APIs and ETL tools (Power Query Editor)</li>
+    <li>Cleaning, structuring, and transforming data for analysis</li>
+    <li>Preparing reliable, consistent, and usable datasets</li>
+  </ul>
 
-Business Intelligence & Strategy**
-- Identification of business needs and writing of functional specifications
-- Design of BI solutions: data extraction, processing, visualisation, and KPI definition
-- Customer/product segmentation analysis to guide decision-making
-- Contribution to business strategy by identifying market opportunities and risks
+  <h3>Data Analysis & Visualisation</h3>
+  <ul>
+    <li>Exploratory, univariate, and multivariate data analysis</li>
+    <li>Creation of accessible and tailored visualisations (Power BI, Excel, Python)</li>
+    <li>Development of interactive dashboards and strategic reporting</li>
+    <li>Storytelling and clear presentation of results</li>
+  </ul>
 
-Project management & User support
-- Organisation and planning of data projects (Gantt charts, retroplanning)
-- Facilitation of user training workshops and support for tool adoption
-- Documentation of processes and sharing of best practices
-</p>
+  <h3>Business Intelligence & Strategy</h3>
+  <ul>
+    <li>Identification of business needs and writing of functional specifications</li>
+    <li>Design of BI solutions: extraction, processing, visualisation, KPI definition</li>
+    <li>Customer/product segmentation analysis</li>
+    <li>Contribution to strategy through insights and risk identification</li>
+  </ul>
+
+  <h3>Project Management & User Support</h3>
+  <ul>
+    <li>Planning and organisation of data projects (Gantt, retroplanning)</li>
+    <li>User training workshops and support for adoption</li>
+    <li>Documentation of processes and best practices</li>
+  </ul>
+
 </section>
 
 <section id="bio" class="section bio-premium">
