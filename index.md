@@ -211,6 +211,37 @@ permalink: /
   <p>I’m a Project Manager with a growing focus on Business Intelligence, using data to support decision-making and improve performance. I work across diverse sectors with an open mind and rigour, combining analytical thinking and project management to deliver clear, measurable results. My focus is on turning data into actionable insights through KPIs, reporting, and performance tracking. I communicate effectively and manage projects independently and in cross-functional teams, ensuring alignment between stakeholders and operations.</p>
 </section>
 
+<section id="BI Skills" class="section">
+  <h2>BI Skills</h2>
+  <p>
+     
+**Data management**
+- Design of relational databases in compliance with GDPR standards
+- Data handling and manipulation using SQL, APIs and an ETL tool (Power Query Editor)
+- Cleaning, structuring, and transforming data for analysis
+- Preparing reliable, consistent, and usable datasets
+
+**Data analysis & Visualisation**
+- Exploratory, univariate, and multivariate data analysis to identify trends and correlations
+- Creation of accessible and tailored visualisations (Power BI, Excel, Python)
+- Development of interactive dashboards and production of strategic reporting
+- Storytelling and clear presentation of results
+
+**Business Intelligence & Strategy**
+- Identification of business needs and writing of functional specifications
+- Design of BI solutions: data extraction, processing, visualisation, and KPI definition
+- Customer/product segmentation analysis to guide decision-making
+- Contribution to business strategy by identifying market opportunities and risks
+
+**Project management & User support**
+- Organisation and planning of data projects (Gantt charts, retroplanning)
+- Facilitation of user training workshops and support for tool adoption
+- Documentation of processes and sharing of best practices
+  
+<img width="470" height="337" alt="image" src="https://github.com/user-attachments/assets/fc9ea274-f4c5-486d-8a65-1c7175465fcb" />
+</p>
+</section>
+
 <section id="bio" class="section bio-premium">
   <h2>Short bio</h2>
 
@@ -264,11 +295,6 @@ permalink: /
       </div>
     </div>
   </div>
-</section>
-
-<section id="projects" class="section">
-  <h2>Projects</h2>
-  <p>Quelques projets Power BI, dashboards et analyses disponibles sur GitHub et Power BI Service.</p>
 </section>
 
 <section id="contact" class="section">
