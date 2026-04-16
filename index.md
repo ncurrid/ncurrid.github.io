@@ -107,7 +107,7 @@ permalink: /
   <!-- TOP -->
   <div class="hero-top">
     <h1>Nathalie Currid</h1>
-    <p>Business Intelligence Analyst • Project Manager</p>
+    <p>Project Manager • Business Intelligence Analyst</p>
 
     <!-- ABOUT DIRECTEMENT SOUS LE TITRE -->
     <div class="hero-about">
