@@ -16,7 +16,8 @@ permalink: /
 .site-brand__title {
   color: #111 !important;
 }
-
+.hero-bottom {
+  padding-top: 40px;
 /* =========================
    HERO
 ========================= */
