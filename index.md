@@ -224,7 +224,7 @@ permalink: /
       <div class="bio-premium-dot"></div>
 
       <div class="bio-premium-content">
-        <div class="bio-role">Apprenticeship Student Success Manager</div>
+        <div class="bio-role">Student Success Manager - Apprenticeship segment</div>
         <div class="bio-date">2021 — 2023</div>
         <div class="bio-text">
           OpenClassrooms, Paris (remote), France
@@ -236,7 +236,7 @@ permalink: /
       <div class="bio-premium-dot"></div>
 
       <div class="bio-premium-content">
-        <div class="bio-role">Marketing Communications Manager for France & Monaco</div>
+        <div class="bio-role">Marketing Communications Manager (France & Monaco)</div>
         <div class="bio-date">2009 - 2020</div>
         <div class="bio-text">
           Blevins Franks Wealth Management, Valbonne, France
