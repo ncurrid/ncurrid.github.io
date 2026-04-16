@@ -7,7 +7,7 @@ permalink: /
 <style>
 
 /* =========================
-   HEADER FIX (évite doublon titre)
+   HEADER FIX
 ========================= */
 .page__title {
   display: none !important;
@@ -52,11 +52,8 @@ permalink: /
 /* =========================
    TOP
 ========================= */
-.hero-top img {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-  margin-bottom: 10px;
+.hero-top {
+  margin-top: 20px;
 }
 
 .hero-top h1 {
@@ -64,9 +61,26 @@ permalink: /
   margin: 10px 0;
 }
 
+.hero-top p {
+  font-size: 1.2em;
+}
+
+/* =========================
+   ABOUT (DANS HERO)
+========================= */
+.hero-about {
+  max-width: 600px;
+  margin: 20px auto;
+  font-size: 1em;
+}
+
 /* =========================
    BUTTONS
 ========================= */
+.hero-bottom {
+  margin-bottom: 10px;
+}
+
 .hero-bottom a {
   display: inline-block;
   margin: 10px;
@@ -78,7 +92,7 @@ permalink: /
 }
 
 /* =========================
-   SECTIONS
+   SECTION (SI BESOIN PLUS BAS)
 ========================= */
 .section {
   padding: 40px 20px;
@@ -89,30 +103,32 @@ permalink: /
 <!-- HERO -->
 <div class="hero">
 
+  <!-- TOP -->
   <div class="hero-top">
-
-    <!-- NOM (UNE SEULE FOIS ICI) -->
     <h1>Nathalie Currid</h1>
-
     <p>Business Intelligence Analyst • Project Manager</p>
 
+    <!-- ABOUT DIRECTEMENT SOUS LE TITRE -->
+    <div class="hero-about">
+      <p>
+        Project Manager with a strong background in delivering results.  
+        Recently expanded into Business Intelligence, focusing on turning data into actionable insights to improve performance.
+      </p>
+    </div>
   </div>
 
+  <!-- BOTTOM BUTTONS -->
   <div class="hero-bottom">
 
-    <a href="https://github.com/ncurrid/WELCOME-PAGE"
-    target="_blank">
-    BI projects
+    <a href="https://github.com/ncurrid/WELCOME-PAGE" target="_blank">
+      BI Projects
+    </a>
 
     <a href="https://app.powerbi.com/view?r=eyJrIjoiZjRiOTc3NDItN2Y3OS00Mjc3LWE3MjUtNTM3N2E4NzRjODZlIiwidCI6IjI0ZmZjMGRmLTZiM2YtNGVkZS1iYWNkLWRkNDlmZDFiNGEzMCJ9"
        target="_blank">
       View CV
     </a>
 
-<!-- ABOUT -->
-<div class="section">
-  <h2>About me</h2>
-  <p>
-Project Manager with a strong background of delivering results. Recently expanded into Business Intelligence, focusing on turning data into actionable insights to improve operational performance. Adaptable across sectors with strong communication and technical skills.
-  </p>
+  </div>
+
 </div>
