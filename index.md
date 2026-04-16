@@ -50,16 +50,6 @@ permalink: /
 }
 
 /* =========================
-   ABOUT (DANS HERO)
-========================= */
-.hero-about {
-  max-width: 600px;
-  margin: 20px auto;
-  font-size: 0.8em;
-}
-}
-
-/* =========================
    TOP
 ========================= */
 .hero-top {
@@ -109,14 +99,6 @@ permalink: /
     <h1>Nathalie Currid</h1>
     <p>Project Manager • Business Intelligence Analyst</p>
 
-    <!-- ABOUT DIRECTEMENT SOUS LE TITRE -->
-    <div class="hero-about">
-      <p>
-        I’m a Project Manager with a growing focus on Business Intelligence, using data to drive decisions and improve performance.
-      </p>
-    </div>
-  </div>
-
   <!-- BOTTOM BUTTONS -->
   <div class="hero-bottom">
 
@@ -132,3 +114,10 @@ permalink: /
   </div>
 
 </div>
+    <!-- ABOUT DIRECTEMENT SOUS LE TITRE -->
+    <div class="hero-about">
+      <p>
+        I’m a Project Manager with a growing focus on Business Intelligence, using data to drive decisions and improve performance.
+      </p>
+    </div>
+  </div>
