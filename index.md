@@ -72,6 +72,8 @@ permalink: /
   max-width: 600px;
   margin: 20px auto;
   font-size: 0.9em;
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+}
 }
 
 /* =========================
