@@ -84,7 +84,7 @@ permalink: /
    SECTION
 ========================= */
 .section {
-  padding: 60px 20px;
+  padding: 35px 20px;
   text-align: left;
 }
 /* =========================
@@ -181,6 +181,11 @@ permalink: /
 #contact i {
   margin-right: 8px;
   color: #444;
+}
+h1, h2, h3 {
+  margin-top: 10px;
+  margin-bottom: 6px;
+  line-height: 1.2;
 }
 </style>
 
