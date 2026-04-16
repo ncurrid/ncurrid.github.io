@@ -215,7 +215,7 @@ permalink: /
         <div class="bio-role">Project Manager of the RISE Academy of Excellence</div>
         <div class="bio-date">2023 — Present</div>
         <div class="bio-text">
-          Centre Inria d'Université Côte d'Azur, Sophia Antipolis, Provence-Alpes-Côte d’Azur, France
+          Centre Inria d'Université Côte d'Azur, Sophia Antipolis, France
         </div>
       </div>
     </div>
@@ -224,11 +224,10 @@ permalink: /
       <div class="bio-premium-dot"></div>
 
       <div class="bio-premium-content">
-        <div class="bio-role">BI Analyst</div>
+        <div class="bio-role">Apprenticeship Student Success Manager</div>
         <div class="bio-date">2021 — 2023</div>
         <div class="bio-text">
-          Design of Power BI dashboards, data modeling, automation of reporting,
-          and decision support for business teams.
+          OpenClassrooms, Paris (remote), France
         </div>
       </div>
     </div>
@@ -237,14 +236,25 @@ permalink: /
       <div class="bio-premium-dot"></div>
 
       <div class="bio-premium-content">
-        <div class="bio-role">Data Enthusiast</div>
-        <div class="bio-date">Earlier</div>
+        <div class="bio-role">Marketing Communications Manager for France & Monaco</div>
+        <div class="bio-date">2009 - 2020</div>
         <div class="bio-text">
-          Strong interest in data visualization, SQL, Python, and business analytics foundations.
+          Blevins Franks Wealth Management, Valbonne, France
         </div>
       </div>
     </div>
+    
+   <div class="bio-premium-item">
+      <div class="bio-premium-dot"></div>
 
+      <div class="bio-premium-content">
+        <div class="bio-role">French Teacher (Secondary and 6th form)</div>
+        <div class="bio-date">2002 — 2006</div>
+        <div class="bio-text">
+          Corfe Hills School Academy Trust, Broadstone, UK
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 
