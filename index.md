@@ -112,8 +112,7 @@ permalink: /
     <!-- ABOUT DIRECTEMENT SOUS LE TITRE -->
     <div class="hero-about">
       <p>
-        Project Manager with a strong background in delivering results.
-        Recently expanded into Business Intelligence, focusing on turning data into actionable insights to improve performance.
+        I’m a Project Manager with a growing focus on Business Intelligence, using data to drive smarter decisions and improve performance.
       </p>
     </div>
   </div>
@@ -127,7 +126,7 @@ permalink: /
 
     <a href="https://app.powerbi.com/view?r=eyJrIjoiZjRiOTc3NDItN2Y3OS00Mjc3LWE3MjUtNTM3N2E4NzRjODZlIiwidCI6IjI0ZmZjMGRmLTZiM2YtNGVkZS1iYWNkLWRkNDlmZDFiNGEzMCJ9"
        target="_blank">
-       View CV 
+        View CV  
     </a>
 
   </div>
