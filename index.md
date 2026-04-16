@@ -5,7 +5,13 @@ permalink: /
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 <style>
+body {
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+}
 
+h1, h2, h3, h4, p, a, li {
+  font-family: inherit;
+}
 /* =========================
    HEADER FIX
 ========================= */
