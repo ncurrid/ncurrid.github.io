@@ -42,7 +42,7 @@ permalink: /
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0,0,0,0.25);
+  background: rgba(0,0,0,0.15);
 }
 
 .hero > * {
@@ -96,7 +96,7 @@ permalink: /
    SECTION (SI BESOIN PLUS BAS)
 ========================= */
 .section {
-  padding: 40px 20px;
+  padding: 60px 20px;
   text-align: center;
 }
 </style>
@@ -112,7 +112,7 @@ permalink: /
     <!-- ABOUT DIRECTEMENT SOUS LE TITRE -->
     <div class="hero-about">
       <p>
-        Project Manager with a strong background in delivering results.  
+        Project Manager with a strong background in delivering results.
         Recently expanded into Business Intelligence, focusing on turning data into actionable insights to improve performance.
       </p>
     </div>
