@@ -17,7 +17,9 @@ permalink: /
   color: #111 !important;
 }
 .hero-bottom {
-  padding-top: 40px;
+  padding-top: 50px;
+}
+   
 /* =========================
    HERO
 ========================= */
@@ -25,7 +27,7 @@ permalink: /
   background-image: url('/assets/images/background.jpg');
   background-size: cover;
   background-position: center;
-  height: 50vh;
+  height: 60vh;
 
   display: flex;
   flex-direction: column;
