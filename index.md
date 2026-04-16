@@ -212,7 +212,7 @@ permalink: /
 </section>
 
 <section id="bi-skills" class="section">
-  <h2>BI Skills</h2>
+  <h2>BI skills</h2>
 
   <h3>Data Management</h3>
   <ul>
