@@ -71,7 +71,7 @@ permalink: /
 .hero-about {
   max-width: 600px;
   margin: 20px auto;
-  font-size: 1em;
+  font-size: 0.9em;
 }
 
 /* =========================
