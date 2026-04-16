@@ -88,10 +88,10 @@ permalink: /
   text-align: center;
 }
 /* =========================
-   CV
+   LinkedIn blue style
 ========================= */
    :root {
-  --primary: #0a66c2;     /* LinkedIn blue style */
+  --primary: #0a66c2;
   --text: #1f1f1f;
   --muted: #666;
   --line: #e6e6e6;
@@ -200,7 +200,7 @@ permalink: /
 
 <section id="about" class="section">
   <h2>About me</h2>
-  <p>Je suis spécialisée en data, BI et gestion de projets, avec une forte expérience dans la transformation des données en insights décisionnels.</p>
+  <p>I’m a Project Manager with a growing focus on Business Intelligence, using data to support decision-making and improve performance. I work across diverse sectors with an open mind and rigour, combining analytical thinking and project management to deliver clear, measurable results. My focus is on turning data into actionable insights through KPIs, reporting, and performance tracking. I communicate effectively and manage projects independently and in cross-functional teams, ensuring alignment between stakeholders and operations.</p>
 </section>
 
 <section id="bio" class="section bio-premium">
