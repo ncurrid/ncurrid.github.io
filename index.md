@@ -116,9 +116,36 @@ permalink: /
   <p>I’m a Project Manager with a growing focus on Business Intelligence, using data to support decision-making and improve performance. I work across diverse sectors with an open mind and rigour, combining analytical thinking and project management to deliver clear, measurable results. My focus is on turning data into actionable insights through KPIs, reporting, and performance tracking. I communicate effectively and manage projects independently and in cross-functional teams, ensuring alignment between stakeholders and operations.</p>
 </section>
 
-<section id="bio" class="section">
+<section id="bio" class="section bio-section">
   <h2>Short bio</h2>
-  <p>Project Manager & BI Analyst basée en Europe, passionnée par la data, la visualisation et l’optimisation des processus métiers.</p>
+
+  <div class="bio-grid">
+
+    <div class="bio-card">
+      <h3>Project Manager</h3>
+      <p>
+        Gestion de projets data et IT, coordination d’équipes et suivi de delivery
+        dans des environnements agiles.
+      </p>
+    </div>
+
+    <div class="bio-card">
+      <h3>BI Analyst</h3>
+      <p>
+        Conception de dashboards Power BI, analyse des données et transformation
+        en insights décisionnels.
+      </p>
+    </div>
+
+    <div class="bio-card">
+      <h3>Data Enthusiast</h3>
+      <p>
+        Passionnée par la data visualisation, l’optimisation des processus et
+        l’aide à la décision.
+      </p>
+    </div>
+
+  </div>
 </section>
 
 <section id="projects" class="section">
