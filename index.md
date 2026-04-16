@@ -214,10 +214,10 @@ permalink: /
 <section id="bi-skills" class="section">
   <h2>BI tools & skills</h2>
 <ul>
-<li>Data & BI tools: Power BI, Excel, SQL, Python (Pandas, Matplotlib)<li>
-<li>Data handling: Data cleaning, transformation, visualisation, KPIs, dashboards<li>
-<li>Project management: Retroplanning, Gantt charts, Agile methods, tasks coordination<li>
-<li>UX/UI & Communication tools: Miro (mockups, mind maps), Loom (training videos), Notion<li>
+<li>Data & BI tools: Power BI, Excel, SQL, Python (Pandas, Matplotlib)
+<li>Data handling: Data cleaning, transformation, visualisation, KPIs, dashboards
+<li>Project management: Retroplanning, Gantt charts, Agile methods, tasks coordination
+<li>UX/UI & Communication tools: Miro (mockups, mind maps), Loom (training videos), Notion
 <li>Online project portfolio tools: GitHub, Markdown<li>
  </ul>
 
