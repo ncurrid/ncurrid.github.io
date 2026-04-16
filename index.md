@@ -214,7 +214,7 @@ permalink: /
 <section id="bi-skills" class="section">
   <h2>BI skills</h2>
 
-  <h3>Data Management</h3>
+  <h4>Data Management</h4>
   <ul>
     <li>Design of relational databases in compliance with GDPR standards</li>
     <li>Data handling and manipulation using SQL, APIs and ETL tools (Power Query Editor)</li>
@@ -222,7 +222,7 @@ permalink: /
     <li>Preparing reliable, consistent, and usable datasets</li>
   </ul>
 
-  <h3>Data Analysis & Visualisation</h3>
+  <h4>Data Analysis & Visualisation</h4>
   <ul>
     <li>Exploratory, univariate, and multivariate data analysis</li>
     <li>Creation of accessible and tailored visualisations (Power BI, Excel, Python)</li>
@@ -230,7 +230,7 @@ permalink: /
     <li>Storytelling and clear presentation of results</li>
   </ul>
 
-  <h3>Business Intelligence & Strategy</h3>
+  <h4>Business Intelligence & Strategy</h4>
   <ul>
     <li>Identification of business needs and writing of functional specifications</li>
     <li>Design of BI solutions: extraction, processing, visualisation, KPI definition</li>
@@ -238,7 +238,7 @@ permalink: /
     <li>Contribution to strategy through insights and risk identification</li>
   </ul>
 
-  <h3>Project Management & User Support</h3>
+  <h4>Project Management & User Support</h4>
   <ul>
     <li>Planning and organisation of data projects (Gantt, retroplanning)</li>
     <li>User training workshops and support for adoption</li>
