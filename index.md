@@ -113,7 +113,7 @@ permalink: /
 
 <section id="about" class="section">
   <h2>About me</h2>
-  <p>Je suis spécialisée en data, BI et gestion de projets, avec une forte expérience dans la transformation des données en insights décisionnels.</p>
+  <p>I’m a Project Manager with a growing focus on Business Intelligence, using data to drive decisions and improve performance.</p>
 </section>
 
 <section id="bio" class="section">
