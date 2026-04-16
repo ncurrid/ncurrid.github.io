@@ -212,11 +212,10 @@ permalink: /
       <div class="bio-premium-dot"></div>
 
       <div class="bio-premium-content">
-        <div class="bio-role">Project Manager</div>
+        <div class="bio-role">Project Manager of the RISE Academy of Excellence</div>
         <div class="bio-date">2023 — Present</div>
         <div class="bio-text">
-          Lead of data and IT projects, Agile coordination, stakeholder management,
-          and delivery of BI solutions in international environments.
+          Centre Inria d'Université Côte d'Azur, Sophia Antipolis, Provence-Alpes-Côte d’Azur, France
         </div>
       </div>
     </div>
@@ -256,6 +255,6 @@ permalink: /
 
 <section id="contact" class="section">
   <h2>Contact</h2>
-  <p>Email : example@email.com<br>
-     LinkedIn : https://linkedin.com</p>
+  <p>Email : nathalie.currid@gmail.com<br>
+     LinkedIn : [https://linkedin.com](https://www.linkedin.com/in/nathalie-currid-ab87a042)</p>
 </section>
