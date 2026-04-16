@@ -81,7 +81,7 @@ permalink: /
 }
 
 /* =========================
-   SECTION (SI BESOIN PLUS BAS)
+   SECTION
 ========================= */
 .section {
   padding: 60px 20px;
@@ -110,3 +110,24 @@ permalink: /
   </div>
 
 </div>
+
+<section id="about" class="section">
+  <h2>About me</h2>
+  <p>Je suis spécialisée en data, BI et gestion de projets, avec une forte expérience dans la transformation des données en insights décisionnels.</p>
+</section>
+
+<section id="bio" class="section">
+  <h2>Short bio</h2>
+  <p>Project Manager & BI Analyst basée en Europe, passionnée par la data, la visualisation et l’optimisation des processus métiers.</p>
+</section>
+
+<section id="projects" class="section">
+  <h2>Projects</h2>
+  <p>Quelques projets Power BI, dashboards et analyses disponibles sur GitHub et Power BI Service.</p>
+</section>
+
+<section id="contact" class="section">
+  <h2>Contact</h2>
+  <p>Email : example@email.com<br>
+     LinkedIn : https://linkedin.com</p>
+</section>
