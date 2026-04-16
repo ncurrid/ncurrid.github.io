@@ -236,8 +236,6 @@ Project management & User support
 - Organisation and planning of data projects (Gantt charts, retroplanning)
 - Facilitation of user training workshops and support for tool adoption
 - Documentation of processes and sharing of best practices
-  
-<img width="470" height="337" alt="image" src="https://github.com/user-attachments/assets/fc9ea274-f4c5-486d-8a65-1c7175465fcb" />
 </p>
 </section>
 
