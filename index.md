@@ -85,7 +85,7 @@ permalink: /
 ========================= */
 .section {
   padding: 60px 20px;
-  text-align: center;
+  text-align: left;
 }
 /* =========================
    LinkedIn blue style
