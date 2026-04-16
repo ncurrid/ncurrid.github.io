@@ -219,9 +219,9 @@ permalink: /
 
 <li><strong>Project management:</strong> Retroplanning, Gantt charts, Agile methods — planning and coordination of data projects, writing functional specifications, documentation of processes and best practices</li>
 
-<li><strong>UX/UI & Communication tools:</strong> Miro (mockups, mind maps), Loom (training videos), Notion — creation of user-centric materials, facilitation of workshops, and support for user adoption</li>
+<li><strong>UX/UI & Communication tools:</strong> Miro (mockups, mind maps), Loom (training videos), Notion — creation of user-centric materials</li>
 
-<li><strong>Online project portfolio tools:</strong> GitHub, Markdown — version control, project documentation, and presentation of data analysis workflows and deliverables</li>
+<li><strong>Online project portfolio tools:</strong> GitHub, Markdown</li>
 </section>
 
 <section id="bio" class="section bio-premium">
