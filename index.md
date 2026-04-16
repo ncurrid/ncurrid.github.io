@@ -117,6 +117,6 @@ permalink: /
 <div class="section">
   <h2>About me</h2>
   <p>
-Project Manager with a strong track record of delivering results. Recently expanded into Business Intelligence, focusing on turning data into actionable insights to improve operational performance. Adaptable across sectors with strong communication and technical skills.
+Project Manager with a strong background of delivering results. Recently expanded into Business Intelligence, focusing on turning data into actionable insights to improve operational performance. Adaptable across sectors with strong communication and technical skills.
   </p>
 </div>
