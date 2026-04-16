@@ -24,7 +24,7 @@ permalink: /
   background-image: url('/assets/images/background.jpg');
   background-size: cover;
   background-position: center;
-  height: 60vh;
+  height: 50vh;
 
   display: flex;
   flex-direction: column;
