@@ -87,6 +87,55 @@ permalink: /
   padding: 60px 20px;
   text-align: center;
 }
+
+   :root {
+  --main-color: #2c3e50;   /* couleur principale */
+  --accent-color: #1abc9c; /* couleur accent */
+  --text-color: #111;
+  --card-bg: rgba(255, 255, 255, 0.9);
+}
+
+/* SECTION BIO */
+.bio-section {
+  background: #f7f7f7;
+}
+
+/* GRID */
+.bio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  margin-top: 30px;
+}
+
+/* CARDS */
+.bio-card {
+  background: var(--card-bg);
+  border-left: 5px solid var(--accent-color);
+  border-radius: 10px;
+  padding: 20px;
+  text-align: left;
+
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.bio-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.12);
+}
+
+/* TITRES */
+.bio-card h3 {
+  margin-bottom: 10px;
+  color: var(--main-color);
+}
+
+/* TEXTE */
+.bio-card p {
+  color: #444;
+  line-height: 1.5;
+}
 </style>
 
 <div class="hero">
