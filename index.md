@@ -213,15 +213,15 @@ permalink: /
 
 <section id="Data & Business Intelligence skills" class="section">
   <h2>Data & Business Intelligence skills</h2>
-<li><strong>Data & BI tools:</strong> Power BI, Excel, SQL, Python (Pandas, Matplotlib) — applied to data extraction, transformation (ETL via Power Query), analysis and development of interactive dashboards and KPI-driven reporting</li>
+<p><strong>Data & BI tools:</strong> Power BI, Excel, SQL, Python (Pandas, Matplotlib) — applied to data extraction, transformation (ETL via Power Query), analysis and development of interactive dashboards and KPI-driven reporting</p>
 
-<li><strong>Data handling:</strong> Data cleaning, structuring and transformation; preparation of reliable datasets; exploratory (univariate & multivariate) analysis; data visualisation and storytelling to support decision-making</li>
+<p><strong>Data handling:</strong> Data cleaning, structuring and transformation; preparation of reliable datasets; exploratory (univariate & multivariate) analysis; data visualisation and storytelling to support decision-making</p>
 
-<li><strong>Project management:</strong> Retroplanning, Gantt charts, Agile methods — planning and coordination of data projects, writing functional specifications, documentation of processes and best practices</li>
+<p><strong>Project management:</strong> Retroplanning, Gantt charts, Agile methods — planning and coordination of data projects, writing functional specifications, documentation of processes and best practices</p>
 
-<li><strong>UX/UI & Communication tools:</strong> Miro (mockups, mind maps), Loom (training videos), Notion — creation of user-centric materials</li>
+<p><strong>UX/UI & Communication tools:</strong> Miro (mockups, mind maps), Loom (training videos), Notion — creation of user-centric materials</p>
 
-<li><strong>Online project portfolio tools:</strong> GitHub, Markdown</li>
+<p><strong>Online project portfolio tools:</strong> GitHub, Markdown</p>
 </section>
 
 <section id="bio" class="section bio-premium">
