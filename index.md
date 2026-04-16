@@ -87,7 +87,7 @@ permalink: /
   display: inline-block;
   margin: 10px;
   padding: 12px 25px;
-  background-color: rgba(0,0,0,0.6);
+  background-color: rgba(0,0,0,0.4);
   color: white;
   text-decoration: none;
   border-radius: 6px;
