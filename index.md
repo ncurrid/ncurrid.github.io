@@ -66,16 +66,6 @@ permalink: /
 }
 
 /* =========================
-   ABOUT (DANS HERO)
-========================= */
-.hero-about {
-  max-width: 600px;
-  margin: 20px auto;
-  font-size: 0.8em;
-}
-}
-
-/* =========================
    BUTTONS
 ========================= */
 .hero-bottom {
