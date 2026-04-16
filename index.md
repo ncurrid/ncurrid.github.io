@@ -3,7 +3,7 @@ layout: page
 title: ""
 permalink: /
 ---
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 <style>
 
 /* =========================
@@ -178,6 +178,10 @@ permalink: /
   background-color: #f5f5f5;
   border-radius: 12px;
 }
+#contact i {
+  margin-right: 8px;
+  color: #444;
+}
 </style>
 
 <div class="hero">
@@ -269,6 +273,26 @@ permalink: /
 
 <section id="contact" class="section">
   <h2>Contact</h2>
-  <p>Email : nathalie.currid@gmail.com<br>
-     LinkedIn : [https://linkedin.com](https://www.linkedin.com/in/nathalie-currid-ab87a042)</p>
+
+  <p>
+    <i class="fas fa-envelope"></i>
+    <a href="mailto:nathalie.currid@gmail.com">
+      nathalie.currid@gmail.com
+    </a>
+  </p>
+
+  <p>
+    <i class="fab fa-linkedin"></i>
+    <a href="https://www.linkedin.com/in/nathalie-currid-ab87a042/" target="_blank">
+      LinkedIn
+    </a>
+  </p>
+
+  <p>
+    <i class="fab fa-github"></i>
+    <a href="https://github.com/ncurrid" target="_blank">
+      GitHub
+    </a>
+  </p>
+
 </section>
