@@ -89,53 +89,121 @@ permalink: /
 }
 
    :root {
-  --main-color: #2c3e50;   /* couleur principale */
-  --accent-color: #1abc9c; /* couleur accent */
-  --text-color: #111;
-  --card-bg: rgba(255, 255, 255, 0.9);
+  --main-color: #2c3e50;
+  --accent-color: #1abc9c;
+  --bg-light: #f7f7f7;
+  --card-bg: #ffffff;
 }
 
-/* SECTION BIO */
+/* SECTION */
 .bio-section {
-  background: #f7f7f7;
+  background: var(--bg-light);
 }
 
-/* GRID */
-.bio-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 20px;
-  margin-top: 30px;
+/* TIMELINE WRAPPER */
+.timeline {
+  position: relative;
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px 0;
 }
 
-/* CARDS */
-.bio-card {
-  background: var(--card-bg);
-  border-left: 5px solid var(--accent-color);
-  border-radius: 10px;
-  padding: 20px;
+/* LIGNE CENTRALE */
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 3px;
+  background-color: var(--accent-color);
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/* ITEM */
+.timeline-item {
+  padding: 20px 40px;
+  position: relative;
+  width: 50%;
+}
+
+/* LEFT / RIGHT ALTERNANCE */
+.timeline-item:nth-child(odd) {
+  left: 0;
+  text-align: right;
+}
+
+.timeline-item:nth-child(even) {
+  left: 50%;
   text-align: left;
+}
 
+/* POINT */
+.timeline-dot {
+  width: 14px;
+  height: 14px;
+  background-color: var(--accent-color);
+  border-radius: 50%;
+  position: absolute;
+  top: 25px;
+  z-index: 2;
+}
+
+/* POSITION DOT LEFT/RIGHT */
+.timeline-item:nth-child(odd) .timeline-dot {
+  right: -7px;
+}
+
+.timeline-item:nth-child(even) .timeline-dot {
+  left: -7px;
+}
+
+/* CONTENT BOX */
+.timeline-content {
+  background: var(--card-bg);
+  padding: 20px;
+  border-radius: 10px;
   box-shadow: 0 4px 15px rgba(0,0,0,0.08);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: inline-block;
+  max-width: 350px;
 }
 
-.bio-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 25px rgba(0,0,0,0.12);
-}
-
-/* TITRES */
-.bio-card h3 {
-  margin-bottom: 10px;
+/* TITRE */
+.timeline-content h3 {
+  margin: 0 0 5px;
   color: var(--main-color);
 }
 
-/* TEXTE */
-.bio-card p {
-  color: #444;
-  line-height: 1.5;
+/* DATE */
+.timeline-content span {
+  font-size: 0.85em;
+  color: var(--accent-color);
+  display: block;
+  margin-bottom: 10px;
 }
+
+/* MOBILE */
+@media screen and (max-width: 768px) {
+  .timeline::after {
+    left: 10px;
+  }
+
+  .timeline-item {
+    width: 100%;
+    padding-left: 40px;
+    padding-right: 20px;
+    text-align: left !important;
+    left: 0 !important;
+  }
+
+  .timeline-dot {
+    left: 3px !important;
+  }
+
+  .timeline-content {
+    max-width: 100%;
+  }
+
 </style>
 
 <div class="hero">
@@ -168,30 +236,42 @@ permalink: /
 <section id="bio" class="section bio-section">
   <h2>Short bio</h2>
 
-  <div class="bio-grid">
+  <div class="timeline">
 
-    <div class="bio-card">
-      <h3>Project Manager</h3>
-      <p>
-        Gestion de projets data et IT, coordination d’équipes et suivi de delivery
-        dans des environnements agiles.
-      </p>
+    <div class="timeline-item">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3>Project Manager</h3>
+        <span>2023 - Present</span>
+        <p>
+          Gestion de projets data et IT, coordination d’équipes,
+          pilotage Agile et delivery de solutions BI.
+        </p>
+      </div>
     </div>
 
-    <div class="bio-card">
-      <h3>BI Analyst</h3>
-      <p>
-        Conception de dashboards Power BI, analyse des données et transformation
-        en insights décisionnels.
-      </p>
+    <div class="timeline-item">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3>BI Analyst</h3>
+        <span>2021 - 2023</span>
+        <p>
+          Création de dashboards Power BI, analyse de données,
+          automatisation de reporting et support décisionnel.
+        </p>
+      </div>
     </div>
 
-    <div class="bio-card">
-      <h3>Data Enthusiast</h3>
-      <p>
-        Passionnée par la data visualisation, l’optimisation des processus et
-        l’aide à la décision.
-      </p>
+    <div class="timeline-item">
+      <div class="timeline-dot"></div>
+      <div class="timeline-content">
+        <h3>Data Enthusiast</h3>
+        <span>Before 2021</span>
+        <p>
+          Exploration de la data visualisation, apprentissage SQL,
+          Python et outils BI.
+        </p>
+      </div>
     </div>
 
   </div>
