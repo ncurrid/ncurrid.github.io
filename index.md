@@ -174,12 +174,8 @@ permalink: /
   color: var(--primary);
   transition: 0.2s ease;
 }
-   body {
-  background: #f5f5f5;
-}
-
-.bio-premium {
-  background: white;
+  .bio-premium {
+  background-color: #f5f5f5;
   border-radius: 12px;
 }
 </style>
