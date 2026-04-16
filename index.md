@@ -109,10 +109,6 @@ permalink: /
       View CV
     </a>
 
-  </div>
-
-</div>
-
 <!-- ABOUT -->
 <div class="section">
   <h2>About me</h2>
