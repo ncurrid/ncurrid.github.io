@@ -32,7 +32,7 @@ permalink: /
   text-align: center;
   color: white;
 
-  padding: 60px 20px 30px;
+  padding: 30px 20px 30px;
   position: relative;
 }
 
