@@ -220,7 +220,7 @@ h1, h2, h3 {
 
 <section id="about" class="section">
   <h2>About me</h2>
-  <p>I’m a Project Manager with a growing focus on Business Intelligence, using data to support decision-making and improve performance. I work across diverse sectors with an open mind and rigour, combining analytical thinking and project management to deliver clear, measurable results. My focus is on turning cleaned data into actionable insights through KPIs, reporting, and performance tracking. I communicate effectively and manage projects independently and in cross-functional teams, ensuring alignment between stakeholders and operations.</p>
+  <p>I’m a Project Manager with a growing focus on Business Intelligence, using data to support decision-making and improve performance across diverse sectors. I approach my work with both curiosity and rigor, combining analytical thinking and project management to deliver clear, measurable results. I focus on turning data into actionable insights through KPIs, reporting, and performance tracking. I communicate clearly and manage projects both independently and within cross-functional teams, ensuring strong alignment between stakeholders and operations.</p>
 </section>
 
 <section id="bio" class="section bio-premium">
