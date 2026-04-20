@@ -244,7 +244,7 @@ h1, h2, h3 {
       <div class="bio-premium-dot"></div>
 
       <div class="bio-premium-content">
-        <div class="bio-role">Student Success Manager - Apprenticeship segment</div>
+        <div class="bio-role">Student Success Manager for the Apprenticeship segment</div>
         <div class="bio-date">2021 — 2023</div>
         <div class="bio-text">
           OpenClassrooms, Paris (remote), France
