@@ -232,9 +232,7 @@ h1, h2, h3 {
       <div class="bio-premium-dot"></div>
 
       <div class="bio-premium-content">
-        <div class="bio-role">Project Manager</div>
-        <div class="bio-text">
-          RISE Academy of Excellence</div>
+        <div class="bio-role">Project Manager of the <a href="https://ds4h.univ-cotedazur.eu/about-us/academy-of-excellence-1">RISE Academy</a>of Excellence</div>
         <div class="bio-date">2023 — Present</div>
         <div class="bio-text">
           Centre Inria d'Université Côte d'Azur, Sophia Antipolis, France
