@@ -181,7 +181,7 @@ h1, h2, h3, h4, p, a, li {
   transition: 0.2s ease;
 }
   .bio-premium {
-  background-color: #eef3f7;
+  background-color: #d6e0ea;
   border-radius: 12px;
 }
 #contact i {
