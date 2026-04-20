@@ -99,7 +99,7 @@ h1, h2, h3, h4, p, a, li {
 ========================= */
    :root {
   --primary: #0a66c2;
-  --text: #1f1f1f;
+  --text: black;
   --muted: #666;
   --line: #e6e6e6;
   --bg: #ffffff;
@@ -156,7 +156,7 @@ h1, h2, h3, h4, p, a, li {
 .bio-role {
   font-size: 1.05em;
   font-weight: 600;
-  color: black;
+  color: var(--text);
   margin-bottom: 3px;
 }
 
