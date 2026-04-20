@@ -245,7 +245,8 @@ h1, h2, h3 {
 
       <div class="bio-premium-content">
         <div class="bio-role">Project Manager</div>
-        <RISE Academy of Excellence>
+        <div class="bio-text">
+          RISE Academy of Excellence</div>
         <div class="bio-date">2023 — Present</div>
         <div class="bio-text">
           Centre Inria d'Université Côte d'Azur, Sophia Antipolis, France
