@@ -182,7 +182,7 @@ h1, h2, h3, h4, p, a, li {
 }
   .bio-premium {
   background-color: #f1f5f9;
-  border-radius: 12px;
+  border-radius: 0px;
 }
 #contact i {
   margin-right: 8px;
