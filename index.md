@@ -268,7 +268,7 @@ h1, h2, h3 {
       <div class="bio-premium-dot"></div>
 
       <div class="bio-premium-content">
-        <div class="bio-role">Marketing Communications Manager (France & Monaco)</div>
+        <div class="bio-role">Marketing Communications Manager</div>
         <div class="bio-date">2009 - 2020</div>
         <div class="bio-text">
           Blevins Franks Wealth Management, Valbonne, France
@@ -280,7 +280,7 @@ h1, h2, h3 {
       <div class="bio-premium-dot"></div>
 
       <div class="bio-premium-content">
-        <div class="bio-role">French Teacher (Secondary and 6th form)</div>
+        <div class="bio-role">French Teacher</div>
         <div class="bio-date">2002 — 2006</div>
         <div class="bio-text">
           Corfe Hills School Academy Trust, Broadstone, UK
