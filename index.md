@@ -156,7 +156,7 @@ h1, h2, h3, h4, p, a, li {
 .bio-role {
   font-size: 1.05em;
   font-weight: 600;
-  color: var(--text);
+  color: black;
   margin-bottom: 3px;
 }
 
