@@ -275,7 +275,7 @@ h1, h2, h3 {
       <div class="bio-premium-dot"></div>
 
       <div class="bio-premium-content">
-        <div class="bio-role"><a href="https://www.corfehills.net/" target="_blank" rel="noopener noreferrer">French Teacher in secondary and 6th form</a></div>
+        <div class="bio-role"><a href="https://www.corfehills.net/" target="_blank" rel="noopener noreferrer">Teacher of French (Secondary & Sixth form)</a></div>
         <div class="bio-date">2002 — 2006</div>
         <div class="bio-text">
           Corfe Hills School Academy Trust, Broadstone, UK
