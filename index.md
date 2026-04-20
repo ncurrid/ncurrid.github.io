@@ -80,7 +80,7 @@ h1, h2, h3, h4, p, a, li {
   background-color: rgba(0,0,0,0.6);
   color: white;
   text-decoration: none;
-  border-radius: 6px;
+  border-radius: 0px;
 
   font-weight: 500;
   text-align: center;
