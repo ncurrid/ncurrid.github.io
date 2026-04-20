@@ -57,6 +57,7 @@ h1, h2, h3, h4, p, a, li {
 /* TOP */
 .hero-top {
   margin-top: 15px;
+  font-size: 1.8em;
 }
 
 /* BOTTOM */
