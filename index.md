@@ -199,7 +199,7 @@ h1, h2, h3 {
 
   <div class="hero-top">
     <h1>Nathalie Currid</h1>
-    <p>Project Manager • Business Intelligence Analyst</p>
+    <h2>Project Manager • Business Intelligence Analyst</h2>
   </div>
 
   <div class="hero-bottom">
