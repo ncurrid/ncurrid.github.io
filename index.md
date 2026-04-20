@@ -133,7 +133,7 @@ h1, h2, h3, h4, p, a, li {
 /* ITEM */
 .bio-premium-item {
   position: relative;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 
 /* DOT */
