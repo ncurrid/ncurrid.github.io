@@ -99,7 +99,7 @@ h1, h2, h3, h4, p, a, li {
 ========================= */
    :root {
   --primary: #0a66c2;
-  --text: black;
+  --text: #1f1f1f;;
   --muted: #666;
   --line: #e6e6e6;
   --bg: #ffffff;
@@ -158,6 +158,13 @@ h1, h2, h3, h4, p, a, li {
   font-weight: 600;
   color: var(--text);
   margin-bottom: 3px;
+}
+
+.bio-role a:link,
+.bio-role a:visited,
+.bio-role a:hover,
+.bio-role a:active {
+  color: black;
 }
 
 /* DATE */
