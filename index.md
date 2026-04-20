@@ -256,7 +256,7 @@ h1, h2, h3 {
       <div class="bio-premium-dot"></div>
 
       <div class="bio-premium-content">
-        <div class="bio-role"><a href="https://www.blevinsfranks.com/">Marketing Communications Manager for France & Monaco</a></div>
+        <div class="bio-role"><a href="https://www.blevinsfranks.com/" target="_blank" rel="noopener noreferrer">Marketing Communications Manager for France & Monaco</a></div>
         <div class="bio-date">2009 - 2020</div>
         <div class="bio-text">
           Blevins Franks Wealth Management, Valbonne, France
@@ -268,7 +268,7 @@ h1, h2, h3 {
       <div class="bio-premium-dot"></div>
 
       <div class="bio-premium-content">
-        <div class="bio-role"><a href="https://www.corfehills.net/"_blank" rel="noopener noreferrer">French Teacher in secondary and 6th form</a></div>
+        <div class="bio-role"><a href="https://www.corfehills.net/" target="_blank" rel="noopener noreferrer">French Teacher in secondary and 6th form</a></div>
         <div class="bio-date">2002 — 2006</div>
         <div class="bio-text">
           Corfe Hills School Academy Trust, Broadstone, UK
