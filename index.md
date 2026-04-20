@@ -172,7 +172,7 @@ h1, h2, h3, h4, p, a, li {
 .bio-text {
   font-size: 0.95em;
   color: var(--muted);
-  line-height: 1.6;
+  line-height: 1.2;
   max-width: 700px;
 }
 
