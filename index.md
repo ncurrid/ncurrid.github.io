@@ -287,7 +287,7 @@ h1, h2, h3 {
 
 <section id="Data & Business Intelligence skills" class="section">
   <h2>Data & Business Intelligence skills</h2>
-<p><strong>Project management:</strong> Retroplanning, Gantt charts, Agile methods — planning and coordination of data projects, writing functional specifications, documentation of processes and best practices</p>
+<p><strong>Project management:</strong> Agile methodologies, project planning and scheduling (Gantt charts, roadmaps), coordination of data projects, functional specifications, process documentation, and best practices.</p>
 
 <p><strong>Data & BI tools:</strong> Power BI, Excel, SQL, Python (Pandas, Matplotlib) — applied to data extraction, transformation (ETL via Power Query), analysis and development of interactive dashboards and KPI-driven reporting</p>
 
