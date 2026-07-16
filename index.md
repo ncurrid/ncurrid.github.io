@@ -285,6 +285,12 @@ h1, h2, h3 {
   </div>
 </section>
 
+<section id="Skills" class="section">
+  <h2>Skills</h2>
+<p><strong>Bilingual French/English • Project coordination • Stakeholder management • Data Analysis & Reporting (Excel, Power BI, SQL, Python) • Slack • Ticketing and workflow management (Zendesk) • UX/UI & Collaboration Tools (Miro, Notion, Loom) • Web & Intranet Content Management (K-Sup) • Marketing Automation (Blueshift) • Google Analytics • Google Ads</strong></p>
+
+</section>
+
 <section id="Data & Business Intelligence skills" class="section">
   <h2>Data & Business Intelligence skills</h2>
 <p><strong>Project management:</strong> Agile methodologies, project planning and scheduling (Gantt charts, roadmaps), coordination of data projects, functional specifications, process documentation, and best practices.</p>
