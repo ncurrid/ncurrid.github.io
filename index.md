@@ -292,7 +292,7 @@ h1, h2, h3 {
 
 <section id="Skills" class="section">
   <h2>Skills</h2>
-<p><strong>Project & Stakeholder Management:</strong> Project coordination • Agile methodologies • Stakeholder management • Cross-functional collaboration • Requirements gathering • Functional specifications • Process documentation • Workflow optimisation</p>
+<p><strong>Project management:</strong> Project coordination • Agile methodologies • Stakeholder management • Requirements gathering • Process documentation </p>
 
 <p><strong>Data & Business Intelligence:</strong> Data analysis & reporting • Dashboard development • KPI monitoring • Data-driven decision support • Excel • Power BI • SQL • Python (Pandas, Matplotlib)</p>
 
