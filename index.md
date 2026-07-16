@@ -302,6 +302,11 @@ h1, h2, h3 {
 <p><strong>Online project portfolio tools:</strong> GitHub, Markdown</p>
 </section>
 
+<section id="Qualities" class="section">
+  <h2>Qualities</h2>
+  <p>Analytical • Organised • Collaborative • Results-driven • Curious • Reliable</p>
+</section>
+
 <section id="contact" class="section">
   <h2>Contact</h2>
 
