@@ -294,7 +294,7 @@ h1, h2, h3 {
   <h2>Skills</h2>
 <p><strong>Project management:</strong> Project coordination • Agile methodologies • Stakeholder management • Requirements gathering • Process documentation </p>
 
-<p><strong>Data and Business Intelligence:</strong> Data analysis and reporting • Dashboard development • KPI monitoring • Data-driven decision support • Power BI • SQL • Excel • Python (Pandas, Matplotlib)</p>
+<p><strong>Data and Business Intelligence:</strong> Data analysis and reporting • Dashboard development • Data-driven decision support • Power BI • SQL • Excel • Python (Pandas, Matplotlib)</p>
 
 <p><strong>Data analysis and transformation:</strong> Data cleaning, structuring, and transformation • ETL processes (Power Query) • Dataset preparation and quality improvement • Exploratory data analysis (univariate and multivariate) • Data visualisation and storytelling</p>
 
