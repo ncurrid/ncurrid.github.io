@@ -198,7 +198,7 @@ h1, h2, h3, h4, p, a, li {
 }
 h1, h2, h3 {
   margin-top: 8px;
-  margin-bottom: 6px;
+  margin-bottom: 8px;
   line-height: 1.2;
 }
 
