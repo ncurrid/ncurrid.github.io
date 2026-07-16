@@ -296,7 +296,7 @@ h1, h2, h3 {
 
 <p><strong>Data and Business Intelligence:</strong> Data analysis and reporting • Dashboard development • Data-driven decision support • Power BI • SQL • Excel • Python (Pandas, Matplotlib)</p>
 
-<p><strong>Data analysis and transformation:</strong> Data cleaning, structuring, and transformation • ETL processes (Power Query) • Dataset preparation and quality improvement • Exploratory data analysis (univariate and multivariate) • Data visualisation and storytelling</p>
+<p><strong>Data analysis and transformation:</strong> Data preparation and transformation (ETL with Power Query) • Exploratory data analysis (univariate and multivariate)</p>
 
 <p><strong>Collaboration tools:</strong> Miro (workshops, mockups, mind maps) • Notion • Loom (training videos) • Slack • GitHub • Markdown</p>
 
