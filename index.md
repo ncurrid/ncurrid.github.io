@@ -289,11 +289,11 @@ h1, h2, h3 {
   <h2>Data & Business Intelligence skills</h2>
 <p><strong>Project management:</strong> Agile methodologies, project planning and scheduling (Gantt charts, roadmaps), coordination of data projects, functional specifications, process documentation, and best practices.</p>
 
-<p><strong>Data & BI tools:</strong> Power BI, Excel, SQL, Python (Pandas, Matplotlib) — applied to data extraction, transformation (ETL via Power Query), analysis and development of interactive dashboards and KPI-driven reporting</p>
+<p><strong>Data & BI tools:</strong> Power BI, Excel, SQL, and Python (Pandas, Matplotlib) — applied to data extraction, transformation (ETL with Power Query), analysis, and the development of interactive dashboards and KPI-driven reporting.</p>
 
-<p><strong>Data handling:</strong> Data cleaning, structuring and transformation; preparation of reliable datasets; exploratory (univariate & multivariate) analysis; data visualisation and storytelling to support decision-making</p>
+<p><strong>Data handling:</strong> Data cleaning, structuring, and transformation; preparation of reliable datasets; exploratory data analysis (univariate and multivariate); data visualisation and storytelling to support informed decision-making.</p>
 
-<p><strong>UX/UI & Communication tools:</strong> Miro (mockups, mind maps), Loom (training videos), Notion — creation of user-centric materials</p>
+<p><strong>Communication & collaboration tools:</strong> Miro (workshops, mockups, mind maps), Loom (training videos), and Notion — used to create clear, user-centric documentation, facilitate collaboration, and support knowledge sharing</p>
 
 <p><strong>Online project portfolio tools:</strong> GitHub, Markdown</p>
 </section>
