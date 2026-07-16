@@ -286,24 +286,18 @@ h1, h2, h3 {
 </section>
 
 <section id="Data & Business Intelligence skills" class="section">
-  <h2>Data & Business Intelligence skills</h2
-                                           
-- **Data & BI tools:** Power BI, Excel, SQL, Python (Pandas, Matplotlib)
-- **Data handling:** Data cleaning, transformation, visualisation, KPIs, dashboards
-- **Project management:** Retroplanning, Gantt charts, Agile methods, tasks coordination
-- **UX/UI & Communication tools:** Miro (mockups, mind maps), Loom (training videos), Notion
-- **Online project portfolio tools:** GitHub, Markdown
-- 
-<p><strong>Project management:</strong> Retroplanning, Gantt charts, Agile methods — planning and coordination of data projects, writing functional specifications, documentation of processes and best practices</p>
-  
+  <h2>Data & Business Intelligence skills</h2>
 <p><strong>Data & BI tools:</strong> Power BI, Excel, SQL, Python (Pandas, Matplotlib) — applied to data extraction, transformation (ETL via Power Query), analysis and development of interactive dashboards and KPI-driven reporting</p>
 
 <p><strong>Data handling:</strong> Data cleaning, structuring and transformation; preparation of reliable datasets; exploratory (univariate & multivariate) analysis; data visualisation and storytelling to support decision-making</p>
+
+<p><strong>Project management:</strong> Retroplanning, Gantt charts, Agile methods — planning and coordination of data projects, writing functional specifications, documentation of processes and best practices</p>
 
 <p><strong>UX/UI & Communication tools:</strong> Miro (mockups, mind maps), Loom (training videos), Notion — creation of user-centric materials</p>
 
 <p><strong>Online project portfolio tools:</strong> GitHub, Markdown</p>
 </section>
+
 
 <section id="contact" class="section">
   <h2>Contact</h2>
