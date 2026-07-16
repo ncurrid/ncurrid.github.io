@@ -197,7 +197,7 @@ h1, h2, h3, h4, p, a, li {
   color: #444;
 }
 h1, h2, h3 {
-  margin-top: 10px;
+  margin-top: 6px;
   margin-bottom: 6px;
   line-height: 1.2;
 }
