@@ -108,7 +108,7 @@ h1, h2, h3, h4, p, a, li {
 /* SECTION */
 .bio-premium {
   background: var(--bg);
-  padding-top: 40px;
+  padding-top: 20px;
 }
 
 /* TIMELINE WRAPPER */
