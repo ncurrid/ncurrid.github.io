@@ -197,7 +197,7 @@ h1, h2, h3, h4, p, a, li {
   color: #444;
 }
 h1, h2, h3 {
-  margin-top: 6px;
+  margin-top: 8px;
   margin-bottom: 6px;
   line-height: 1.2;
 }
@@ -208,12 +208,12 @@ h1, h2, h3 {
 }
 
 .section h2 {
-  margin-top: 6px;
+  margin-top: 8px;
   margin-bottom: 8px;
 }
 
 .section p {
-  margin-top: 6px;
+  margin-top: 8px;
   margin-bottom: 8px;
 }
 </style>
