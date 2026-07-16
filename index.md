@@ -287,23 +287,20 @@ h1, h2, h3 {
 
 <section id="Skills" class="section">
   <h2>Skills</h2>
-<p><strong>Bilingual French/English • Project coordination • Stakeholder management • Data Analysis & Reporting (Excel, Power BI, SQL, Python) • Slack • Ticketing and workflow management (Zendesk) • UX/UI & Collaboration Tools (Miro, Notion, Loom) • Web & Intranet Content Management (K-Sup) • Marketing Automation (Blueshift) • Google Analytics • Google Ads</strong></p>
+<p><strong>Project & Stakeholder Management:</strong> Project coordination • Agile methodologies • Stakeholder management • Cross-functional collaboration • Requirements gathering • Functional specifications • Process documentation • Workflow optimisation</p>
 
-</section>
+<p><strong>Data & Business Intelligence:</strong> Data analysis & reporting • Dashboard development • KPI monitoring • Data-driven decision support • Excel • Power BI • SQL • Python (Pandas, Matplotlib)</p>
 
-<section id="Data & Business Intelligence skills" class="section">
-  <h2>Data & Business Intelligence skills</h2>
-<p><strong>Project management:</strong> Agile methodologies, project planning and scheduling (Gantt charts, roadmaps), coordination of data projects, functional specifications, process documentation, and best practices.</p>
+<p><strong>Data analysis and transformation:</strong> Data cleaning, structuring, and transformation • ETL processes (Power Query) • Dataset preparation and quality improvement • Exploratory data analysis (univariate and multivariate) • Data visualisation and storytelling</p>
 
-<p><strong>Data & BI tools:</strong> Power BI, Excel, SQL, and Python (Pandas, Matplotlib) — applied to data extraction, transformation (ETL with Power Query), analysis, and the development of interactive dashboards and KPI-driven reporting.</p>
+<p><strong>Collaboration tools:</strong> Miro (workshops, mockups, mind maps) • Notion • Loom (training videos) • Slack • GitHub • Markdown</p>
 
-<p><strong>Data handling:</strong> Data cleaning, structuring, and transformation; preparation of reliable datasets; exploratory data analysis (univariate and multivariate); data visualisation and storytelling to support informed decision-making.</p>
+<p><strong>Web and digital platforms:</strong>Web and intranet content management (K-Sup) • Ticketing and workflow management (Zendesk) • Marketing automation (Blueshift) • Google Analytics • Google Ads</p>
 
-<p><strong>Communication & collaboration tools:</strong> Miro (workshops, mockups, mind maps), Loom (training videos), and Notion — used to create clear, user-centric documentation, facilitate collaboration, and support knowledge sharing</p>
+<p><strong>Languages:</strong> French (native) • English (fluent)</p>
 
 <p><strong>Online project portfolio tools:</strong> GitHub, Markdown</p>
 </section>
-
 
 <section id="contact" class="section">
   <h2>Contact</h2>
