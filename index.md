@@ -201,6 +201,21 @@ h1, h2, h3 {
   margin-bottom: 6px;
   line-height: 1.2;
 }
+
+/* TIGHTER SECTION SPACING */
+.section {
+  padding: 8px 20px;
+}
+
+.section h2 {
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+
+.section p {
+  margin-top: 6px;
+  margin-bottom: 8px;
+}
 </style>
 
 <div class="hero">
