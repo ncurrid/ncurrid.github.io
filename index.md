@@ -304,7 +304,6 @@ h1, h2, h3 {
 
 <p><strong>Languages:</strong> French (native) • English (fluent)</p>
 
-<p><strong>Online project portfolio tools:</strong> GitHub, Markdown</p>
 </section>
 
 <section id="contact" class="section">
