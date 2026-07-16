@@ -300,7 +300,7 @@ h1, h2, h3 {
 
 <p><strong>Collaboration tools:</strong> Miro (workshops, mockups, mind maps) • Notion • Loom (training videos) • Slack • GitHub • Markdown</p>
 
-<p><strong>Web and digital platforms:</strong> Web and intranet content management (K-Sup) • Ticketing and workflow management (Zendesk) • Marketing automation (Blueshift) • Google Analytics • Google Ads</p>
+<p><strong>Web and digital platforms:</strong> Web and intranet content management (K-Sup) • Marketing automation (Blueshift) • Google Analytics • Google Ads • Ticketing and workflow management (Zendesk) </p>
 
 <p><strong>Languages:</strong> French (native) • English (fluent)</p>
 
