@@ -307,7 +307,8 @@ h1, h2, h3 {
 
 <section id="Skills" class="section">
   <h2>Skills</h2>
-<p><strong>Project management:</strong> Project coordination • Agile methodologies • Stakeholder management • Requirements gathering • Process documentation </p>
+<p><strong>Project management:</strong> 
+  Project coordination • Agile methodologies • Stakeholder management • Requirements gathering • Process documentation </p>
 
 <p><strong>Data analysis and transformation:</strong> Data preparation and transformation (ETL with Power Query) • Exploratory data analysis</p>
 
