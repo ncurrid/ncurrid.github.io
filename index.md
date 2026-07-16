@@ -285,6 +285,11 @@ h1, h2, h3 {
   </div>
 </section>
 
+<section id="Qualities" class="section">
+  <h2>Qualities</h2>
+  <p>Analytical • Organised • Collaborative • Results-driven • Curious • Reliable</p>
+</section>
+
 <section id="Skills" class="section">
   <h2>Skills</h2>
 <p><strong>Project & Stakeholder Management:</strong> Project coordination • Agile methodologies • Stakeholder management • Cross-functional collaboration • Requirements gathering • Functional specifications • Process documentation • Workflow optimisation</p>
@@ -295,16 +300,11 @@ h1, h2, h3 {
 
 <p><strong>Collaboration tools:</strong> Miro (workshops, mockups, mind maps) • Notion • Loom (training videos) • Slack • GitHub • Markdown</p>
 
-<p><strong>Web and digital platforms:</strong>Web and intranet content management (K-Sup) • Ticketing and workflow management (Zendesk) • Marketing automation (Blueshift) • Google Analytics • Google Ads</p>
+<p><strong>Web and digital platforms:</strong> Web and intranet content management (K-Sup) • Ticketing and workflow management (Zendesk) • Marketing automation (Blueshift) • Google Analytics • Google Ads</p>
 
 <p><strong>Languages:</strong> French (native) • English (fluent)</p>
 
 <p><strong>Online project portfolio tools:</strong> GitHub, Markdown</p>
-</section>
-
-<section id="Qualities" class="section">
-  <h2>Qualities</h2>
-  <p>Analytical • Organised • Collaborative • Results-driven • Curious • Reliable</p>
 </section>
 
 <section id="contact" class="section">
