@@ -208,7 +208,7 @@ h1, h2, h3 {
 }
 
 .section h2 {
-  margin-top: 0;
+  margin-top: 6px;
   margin-bottom: 8px;
 }
 
