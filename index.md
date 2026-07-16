@@ -91,7 +91,7 @@ h1, h2, h3, h4, p, a, li {
    SECTION
 ========================= */
 .section {
-  padding: 20px 20px;
+  padding: 10px 20px;
   text-align: left;
 }
 /* =========================
@@ -204,16 +204,16 @@ h1, h2, h3 {
 
 /* TIGHTER SECTION SPACING */
 .section {
-  padding: 8px 20px;
+  padding: 10px 20px;
 }
 
 .section h2 {
-  margin-top: 8px;
+  margin-top: 10px;
   margin-bottom: 8px;
 }
 
 .section p {
-  margin-top: 8px;
+  margin-top: 10px;
   margin-bottom: 8px;
 }
 </style>
