@@ -29,7 +29,7 @@ h1, h2, h3, h4, p, a, li {
   background-image: url('/assets/images/background.jpg');
   background-size: cover;
   background-position: center;
-  height: 30vh;
+  height: 20vh;
 
   display: flex;
   flex-direction: column;
