@@ -237,7 +237,7 @@ h1, h2, h3 {
 
 <section id="about" class="section">
   <h2>About me</h2>
-  <p>I’m a Project Manager with strong communication skills and a growing focus on Business Intelligence, using data to support decision-making and improve performance across diverse sectors. I approach my work with both curiosity and rigor, combining analytical thinking, project management expertise, and a collaborative approach to deliver clear, measurable results.</p>
+  <p>I’m a Project Manager with strong communication skills and a growing focus on Business Intelligence, using data to support decision-making and improve performance across diverse sectors. I approach my work with both curiosity and rigor, combining analytical thinking, project management expertise, and a collaborative mindset to deliver clear, measurable results.</p>
 </section>
 
 <section id="bio" class="section bio-premium">
